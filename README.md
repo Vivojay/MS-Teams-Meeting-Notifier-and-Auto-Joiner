@@ -1,1 +1,1 @@
-# MS-Teams-Meeting-Notifier-and-Auto-Joiner
+# MS Teams Meeting-Notifier and Auto-Joiner
